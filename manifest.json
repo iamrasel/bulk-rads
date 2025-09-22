@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Bulk Radio Selector",
+    "version": "1.0",
+    "description": "Select all the radio buttons at once on a webpage, for martians only!",
+    "permissions": ["scripting", "activeTab"],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
