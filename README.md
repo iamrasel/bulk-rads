@@ -25,7 +25,7 @@ Bulk Radio Selector is a web extension that helps select all the radio buttons a
 - If the selection count doesn't match what you expected, wait a few seconds (e.g., 4–5 seconds) and check the count again. This depends on the server's response time. If the server's load time is good, you won't need to wait at all.
 - If the selection count is still lower than expected, just refresh the page. It should be fine now.
 - Follow the above steps to complete each page.
-- In the `Complete` dialog box, the no match count number will change color based on the selection count.
+- In the `Complete` dialog box, the `Total No Match` number will change color based on the selection count.
 
 <details>
     <summary>Previews</summary>
@@ -39,4 +39,4 @@ Bulk Radio Selector is a web extension that helps select all the radio buttons a
 </details>
 
 ### Final Words
-Just a reminder: use with proper caution, and try not to miss anything. I wish you the best! If you face any issues, feel free to reach out to me.
+Just reminding you again: use with proper caution, and try not to miss anything. I wish you the best! If you face any issues, feel free to reach out to me.
